@@ -2,10 +2,10 @@
 
 This is a Open-Source-AppStore from Saasmull where you can download free apps.
 
-# Website, PHP
+# for Web: PHP, HTML
 
 More can you find [here](https://github.com/Saasmull/SaasmullStore-Web).
 
-# Android-App, Java
+# for Android-App; Java, XML
 
 More can you find [here](https://github.com/Saasmull/SaasmullStore-App).
