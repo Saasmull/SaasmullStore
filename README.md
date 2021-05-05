@@ -9,5 +9,5 @@ You can view it [here](https://github.com/Saasmull/SaasmullStore-Web).
 
 # for Android-App; Java, XML
 
-More can you find in the Repositoory `SaasmullStore-App`.
+More can you find in the Repository `SaasmullStore-App`.
 You can view it [here](https://github.com/Saasmull/SaasmullStore-App).
