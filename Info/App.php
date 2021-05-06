@@ -1,2 +1,1 @@
-$this App = "contains PHP";
-$more = "can you find under...";
+<?php $this Website = "contains PHP"; ?>
