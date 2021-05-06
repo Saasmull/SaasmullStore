@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Name of your App",
+    "creator":"Who made this App",
+  	"package":"com.package.name",
+  	"tag":"search, words, or, tags, can, taken, here" 
+  },
+  {
+    "name":"Name of your 2nd App",
+    "creator":"Who made this 2nd App",
+    "package":"com.2nd.package.name",
+    "tag":"search, words, or, tags, can, taken, here"
+  }
+]
